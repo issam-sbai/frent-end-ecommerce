@@ -4,6 +4,8 @@ import { FaEllipsisV, FaEdit, FaTrash } from 'react-icons/fa';
 
 import axios from 'axios';
 
+
+//List of products
 export function Products() {
   const tableItems = [
     {
