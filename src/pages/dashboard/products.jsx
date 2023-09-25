@@ -59,7 +59,7 @@ export function Products() {
           <h3 className="text-xl font-bold text-gray-800 sm:text-2xl">
             Products
           </h3>
-          <p className="mt-2 text-gray-600">A list of products</p>
+          
         </div>
         <div className="mt-12 overflow-x-auto rounded-lg border shadow-sm">
           <table className="w-full table-auto text-left text-sm">
